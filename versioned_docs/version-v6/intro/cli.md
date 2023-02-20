@@ -1,5 +1,5 @@
 ---
-title: Installing Ionic
+title: DAWAKHANA
 sidebar_label: CLI Installation
 ---
 
